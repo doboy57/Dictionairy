@@ -10,7 +10,5 @@ def main():
       outfile.write(encrypt_key[l])
       
 
-
-
-print("wtf")  
+  
 main()
