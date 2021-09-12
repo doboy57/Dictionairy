@@ -9,6 +9,5 @@ def main():
       
       outfile.write(encrypt_key[l])
       
-
   
 main()
